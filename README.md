@@ -21,10 +21,10 @@ translating **astronomical node positions** into structured life-direction logic
 
 Based on **date, time, and place of birth**, the service computes:
 
-- ☋ **South Node** – habitual patterns and comfort zone  
-- ☊ **North Node** – development vector and growth direction  
-- ♈ **Node sign axis** – qualitative direction of growth  
-- �� **Node house axis** – life areas where purpose is lived  
+-  **South Node** – habitual patterns and comfort zone  
+-  **North Node** – development vector and growth direction  
+-  **Node sign axis** – qualitative direction of growth  
+-  **Node house axis** – life areas where purpose is lived  
 
 Only lunar nodes are used.  
 No aspects. No additional planets.  
