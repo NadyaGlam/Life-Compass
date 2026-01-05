@@ -7,7 +7,7 @@ translating **astronomical node positions** into structured life-direction logic
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **FastAPI backend** with clean, modular architecture  
 - **Swiss Ephemeris (pyswisseph)** as the single source of astronomical truth  
