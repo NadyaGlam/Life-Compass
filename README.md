@@ -117,9 +117,9 @@ After startup, open:
 
 ```json
 {
-  "birth_date": "1995-11-18",
+  "birth_date": "1983-11-18",
   "birth_time": "14:30",
-  "birth_place": "Minsk"
+  "birth_place": "Miami, USA"
 }
 ```
 
